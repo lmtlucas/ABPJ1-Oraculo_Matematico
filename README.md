@@ -52,18 +52,18 @@ Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnico
 ## 🧪 Testes Realizados
 
 - Teste com inserção de valores aleatórios com verificação de resultados esperados.
-- Exemplo:
-Digite a sua meta: 1000
-Digite quantos meses para atingir a meta: 5
-Digite sua renda mensal: 500
-Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 100
-Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 20
-Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 50
-Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 0
-Você atingiu sua meta!!!
-Em cada mês você economizou R$330.00, somando essas economias ao longo dos 5 meses, você acumulo o total de: R$1650.00
- - Total de despesas mensais: 170.0
- - Total economizado por mês: 330.0  de entradas testadas e resultados esperados.
+- Exemplo:  
+*Digite a sua meta: 1000  
+Digite quantos meses para atingir a meta: 5   
+Digite sua renda mensal: 500  
+Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 100  
+Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 20  
+Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 50  
+Digite a valor de uma despesa mensal fixa (ou 0 para finalizar): 0  
+Você atingiu sua meta!!!  
+Em cada mês você economizou R$330.00, somando essas economias ao longo dos 5 meses, você acumulo o total de: R$1650.00  
+Total de despesas mensais: 170.0  
+Total economizado por mês: 330.0*
 
 ---
 
@@ -77,11 +77,11 @@ Em cada mês você economizou R$330.00, somando essas economias ao longo dos 5 m
 
 - Deixar as saídas de resultados claras para o usuário
 - Melhoria no raciocínio lógico.
-- Uso de listas com while verificando o ultimo item inserido na lista. (ex.: "while despesas[-1] != 0:")
+- Uso de listas com while verificando o ultimo item inserido na lista. (ex.: *while despesas[-1] != 0:*)
 - Soma dos valores de uma listas
 
 ---
 
-## 👩‍💻👨‍💻 Autores
+## 👩‍💻👨‍💻 Autor
 
 Lucas Mingotti Trabachini - Python Básico - Técnico em Desenvolvimento WEB e Mobile
