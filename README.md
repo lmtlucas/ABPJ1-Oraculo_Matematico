@@ -28,6 +28,12 @@ Esse programa foi desenvolvido na disciplina de Python Básico do curso Técnico
 - main.py → contém os arquivos principais do código  
 - README.md → documentação do projeto  
 - fluxograma.png → imagem do fluxograma do projeto
+  
+---
+
+##  ✨ Fluxograma
+
+![](https://github.com/lmtlucas/ABPJ1-Oraculo_Matematico/blob/main/fluxograma.png)
 
 ---
 
